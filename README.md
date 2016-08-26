@@ -11,6 +11,7 @@ git clone https://github.com/PurdueSIGAI/GraphSearchPractice
 ```
 
 2) Open up IntelliJ
+
 3) Do File -> Open, select the folder "GraphSearchPractice" where you cloned it (in the "sigai" folder if you executed the above).
 
 **You can run the program by** executing ^r or doing Run -> Run.
