@@ -27,4 +27,5 @@ public class Maze {
     public Tile getStartTile();
     public Tile getGoalTile();
     public List<Tile> getAdjacentTiles(Tile tile);
+}
 ```
