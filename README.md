@@ -2,7 +2,7 @@
 
 **To get this on your computer:**
 
-1. Clone the repository onto your computer. If you don't know how to do this, open up the terminal and type:
+1) Clone the repository onto your computer. If you don't know how to do this, open up the terminal and type:
 
 ```bash
 mkdir sigai
@@ -10,8 +10,8 @@ cd sigai
 git clone https://github.com/PurdueSIGAI/GraphSearchPractice
 ```
 
-2. Open up IntelliJ
-3. Do File -> Open, select the folder "GraphSearchPractice" where you cloned it (in the "sigai" folder if you executed the above).
+2) Open up IntelliJ
+3) Do File -> Open, select the folder "GraphSearchPractice" where you cloned it (in the "sigai" folder if you executed the above).
 
 **You can run the program by** executing ^r or doing Run -> Run.
 
