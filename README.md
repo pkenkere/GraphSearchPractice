@@ -28,4 +28,10 @@ public class Maze {
     public Tile getGoalTile();
     public List<Tile> getAdjacentTiles(Tile tile);
 }
+
+public class Tile {
+    public int getX();
+    public int getY();
+    public boolean equals(Tile tile);
+}
 ```
