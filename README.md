@@ -19,7 +19,7 @@ When you run the program you can specify if you want to test the BFS or the DFS.
 
 **Your task** is to complete the files "Bfs.java" and "Dfs.java". I recommend you start with DFS, as that will be easier.
 
-The methods you implement will be passed a Maze object as a parameter. These are some useful methods from Maze.java:
+The methods you implement will be passed a Maze object as a parameter. These are some useful methods:
 
 ```java
 public class Maze {
