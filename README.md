@@ -1,5 +1,16 @@
 # Graph Search Practice
 
+## Pair Programming
+We want you to use pair programming for this project. Find someone next to you to team up with.
+
+One of you will be the "driver" (the person who writes the code), and the other person is the "observer", reviewing each line as it is typed and providing feedback if something doesn't look right or if they don't understand what the driver is doing.
+
+You should switch driver and observer when you finish DFS and start BFS, to give both of you equal practice with both rolls, as well as writing graph searching code.
+
+You can read more about pair programming [here.](https://en.wikipedia.org/wiki/Pair_programming)
+
+## Installing
+
 **To get this on your computer:**
 
 1) Clone the repository onto your computer. If you don't know how to do this, open up the terminal and type:
@@ -14,11 +25,17 @@ git clone https://github.com/PurdueSIGAI/GraphSearchPractice
 
 3) Do File -> Open, select the folder "GraphSearchPractice" where you cloned it (in the "sigai" folder if you executed the above).
 
-**You can run the program by** executing ^r or doing Run -> Run.
+## Testing
+
+You can run the program by executing ^r or doing Run -> Run.
 
 When you run the program you can specify if you want to test the BFS or the DFS.
 
-**Your task** is to complete the files "Bfs.java" and "Dfs.java". I recommend you start with DFS, as that will be easier.
+## Your task
+
+Your task is to complete the files "Bfs.java" and "Dfs.java". I recommend you start with DFS, as that will be easier.
+
+## The API
 
 The methods you implement will be passed a Maze object as a parameter. These are some useful methods:
 
