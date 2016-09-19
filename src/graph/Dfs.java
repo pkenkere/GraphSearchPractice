@@ -15,7 +15,7 @@ public class Dfs {
             return path;
         } else {
             for (Tile adjTile : maze.getAdjacentTiles(tile)) {
-                if (!adjTile.isVisited()) {
+                if (!adjTile.isVisited() && adjTile.isTraversable()) {
                     List<Tile> potentialSolution = dfs(adjTile, maze, path);
                     if (potentialSolution != null)
                         return potentialSolution;
